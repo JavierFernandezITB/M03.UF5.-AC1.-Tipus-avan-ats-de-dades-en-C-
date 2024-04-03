@@ -1,0 +1,14 @@
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\bin\Debug\net8.0\AC1. Tipus avançats de dades en C#.exe
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\bin\Debug\net8.0\AC1. Tipus avançats de dades en C#.deps.json
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\bin\Debug\net8.0\AC1. Tipus avançats de dades en C#.runtimeconfig.json
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\bin\Debug\net8.0\AC1. Tipus avançats de dades en C#.dll
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\bin\Debug\net8.0\AC1. Tipus avançats de dades en C#.pdb
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.AssemblyInfoInputs.cache
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.AssemblyInfo.cs
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.csproj.CoreCompileInputs.cache
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.dll
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\refint\AC1. Tipus avançats de dades en C#.dll
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.pdb
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\AC1. Tipus avançats de dades en C#.genruntimeconfig.cache
+C:\Users\prof\source\repos\AC1. Tipus avançats de dades en C#\AC1. Tipus avançats de dades en C#\obj\Debug\net8.0\ref\AC1. Tipus avançats de dades en C#.dll

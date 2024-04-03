@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AC1. Tipus avançats de dades en C#/1.0.0": {
+        "runtime": {
+          "AC1. Tipus avançats de dades en C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AC1. Tipus avançats de dades en C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
